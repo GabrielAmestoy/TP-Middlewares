@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+h1{
+  background-color: aquamarine;
+  padding: 10px;
+  font-family: arial;
+}
+.form-register{
+  border: 1px solid gray;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  background-color: lightblue;
+  margin: auto;
+}
+.form-register input{
+  padding: 10px;
+}
+.form-register button{
+  background-color: blue;
+  color:#fff;
+  padding: 10px;
+  margin-top: 50x;
+  border: 1px solid grey;
+  border-radius: 10%;
+}
